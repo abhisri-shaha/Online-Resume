@@ -14,7 +14,7 @@ This project is an online resume created using HTML. It provides a comprehensive
 ## 📂 Project Structure
 The project is organized into the following files and folders:
 - `index.html`: The main HTML file containing the resume content.
-- `profile.html`: The HTML file containing the link to my public profiles, such as Github and Tableau Public.
+- `profiles.html`: The HTML file containing the link to my public profiles, such as Github and Tableau Public.
 
 ## 🚀 Getting Started
 To view the resume locally, follow these steps:
