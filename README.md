@@ -52,6 +52,6 @@ This resume is deployed using GitHub Pages. To deploy your version:
 
 ---
 
-**Note:** This is a personal project aimed at showcasing my web development skills and professional profile. Any feedback or suggestions for improvement are welcome! 😊
+**Note:** This project was developed as part of a course on web development. It is aimed at showcasing my web development skills and professional profile. Any feedback or suggestions for improvement are welcome! 😊
 
 Thank you for checking out my project!
